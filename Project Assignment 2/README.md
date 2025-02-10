@@ -16,3 +16,5 @@ KEY FEATURES
   Rotating Asteroids: When an asteroid is hit by a projectile, its shape rotates.
   Scoring System: Players earn points by hitting asteroids and surviving ticks. Destroying asteroids grants bonus points.
   Leaderboard: Tracks the top 10 high scores, saved to a file for persistent storage.
+
+NOTE: This assignment is not completed.
