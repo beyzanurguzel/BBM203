@@ -27,3 +27,5 @@ Weather Restrictions:
 
 Route Summary:
   Outputs the total number of provinces visited, distance covered, and the sequence of visited provinces.
+
+  NOTE : This assignment is not completed.
